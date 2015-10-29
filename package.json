@@ -1,0 +1,31 @@
+{
+  "name": "telltale",
+  "version": "1.0.0",
+  "description": "An unconventional option parser for Node.js.",
+  "main": "./lib/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisdotcode/telltale.git"
+  },
+  "keywords": [
+    "command",
+    "cli",
+    "parsing",
+    "parser",
+    "option",
+    "args",
+    "argument"
+  ],
+  "author": "Chris Blake",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/chrisdotcode/telltale/issues"
+  },
+  "homepage": "https://github.com/chrisdotcode/telltale#readme"
+}
